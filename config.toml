@@ -25,14 +25,14 @@ theme = "gohugo-theme-ananke"
   identifier = "projects"
   name = "Projects"
   title = "Projects"
-  url = "/dgf"
+  url = "https://github.com/orgs/droidian/projects"
   weight = -330
   
 [[menu.main]]
   identifier = "images"
   name = "Images"
   title = "Images"
-  url = "/dd"
+  url = "https://github.com/droidian-images"
   weight = -300
   
   
@@ -40,5 +40,5 @@ theme = "gohugo-theme-ananke"
   identifier = "bugtracker"
   name = "Bug Tracker"
   title = "Bug Tracker"
-  url = "/ff"
+  url = "https://github.com/droidian/meta/issues"
   weight = -290
