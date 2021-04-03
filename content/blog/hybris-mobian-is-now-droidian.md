@@ -16,6 +16,6 @@ We have been laying low until most basic features are working (and we're near th
 
 We took the radical approach - a new name, **Droidian**. It's shorter, composed by a single word and better conveys what we're trying to do: running Debian on Android devices. Plus, it's also a play on the [Droidian Slip](https://www.urbandictionary.com/define.php?term=Droidian%20Slip). :smile:
 
-We hope you'll like the new name as we do. Stay tuned for more details on what we've been working on these last few weeks and, if you want, join us on [Telegram](https://t.me/droidian), [Matrix](https://matrix.to/#/#droidian:matrix.org) and [Twitter](https://twitter.com/droidianlinux) 
+We hope you'll like the new name as we do. Stay tuned for more details on what we've been working on these last few weeks and, if you want, join us on [Telegram](https://t.me/droidianlinux), [Matrix](https://matrix.to/#/#droidian:matrix.org) and [Twitter](https://twitter.com/droidianlinux) 
 
 ~ Droidian Team
