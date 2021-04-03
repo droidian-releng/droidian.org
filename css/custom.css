@@ -21,7 +21,15 @@ footer {
   background-color: #0d1117 !important;
 }
 
-/* 
+a {
+  color: #ccc;
+}
+
+a:hover {
+  color: #3ddc84;
+}
+
+/*
  * Menu 
  */
 
@@ -29,7 +37,6 @@ footer {
 {
   display: block;
   position: relative;
-
   
   z-index: 1;
   
@@ -153,16 +160,28 @@ footer {
 /* 
  * Droidian home
  */ 
+.twitter:hover {
+    fill: #3ddc84;
+}
+
+.facebook:hover {
+    fill: #3ddc84;
+}
+
+.linkedin:hover {
+    fill: #3ddc84;
+}
+
 .color-grey {
   color: #ccc;
 }
 
 .nested-links a {
-  color: #3ddc84
+  color: #ccc;
 } 
 
 .nested-links a:hover {
-  color: #ccc
+  color: #3ddc84;
 } 
  
 .green-swirl {
