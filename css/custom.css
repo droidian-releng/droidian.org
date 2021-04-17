@@ -125,12 +125,12 @@ a:hover {
   transform: rotate(-45deg) translate(0, -1px);
 }
 
-/* Make this absolute positioned at the top left of the screen */
+/* Make this absolute positioned at the top right of the screen */
 #menu
 {
   position: absolute;
   width: 300px;
-  margin: -100px 0 0 -235px;
+  margin: -100px 0 0 -238px;
   padding: 50px;
   padding-top: 125px;
   
