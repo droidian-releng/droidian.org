@@ -5,6 +5,7 @@ theme = "gohugo-theme-ananke"
 
 [params]
   custom_css = ["css/custom.css", "css/fork-awesome.min.css"]
+  env = "production"
 
 # Controls the navigation
 [[menu.main]]
