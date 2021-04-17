@@ -7,6 +7,9 @@ theme = "gohugo-theme-ananke"
   custom_css = ["css/theme.css", "css/custom.css", "css/fork-awesome.min.css"]
   env = "production"
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 # Controls the navigation
 [[menu.main]]
   identifier = "a"
