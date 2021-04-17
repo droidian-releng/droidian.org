@@ -2,6 +2,7 @@
 title: "hybris-mobian Is Now Droidian"
 date: 2021-04-03T15:44:37+02:00
 draft: false
+tags: ["droidian", "hybris-mobian"]
 ---
 
 Hello world, 
