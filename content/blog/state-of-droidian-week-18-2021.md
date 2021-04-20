@@ -76,7 +76,7 @@ These devices join the F(x)tec Pro¹, and the adaptation bundle for these device
 Download now
 ------------------
 
-All of this is now available in the latest release, bullseye/20. Get it from this [link](https://github.com/droidian-images/rootfs-api28gsi-all/releases/tag/untagged-b3c7b169a7c908f1e0be) while it's hot!
+All of this is now available in the latest release, bullseye/20. Get it from this [link](https://github.com/droidian-images/rootfs-api28gsi-all/releases/tag/droidian%2Fbullseye%2F20) while it's hot!
 
 Remember that this is **alpha quality software, absolutely not daily driver ready**. If you break your device, you get to keep both pieces!
 
