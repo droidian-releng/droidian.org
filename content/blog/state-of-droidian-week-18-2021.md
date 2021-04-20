@@ -3,6 +3,8 @@ title: "State of Droidian Week 18 2021"
 date: 2021-04-20T10:00:51+02:00
 draft: false
 featured_image: /img/posts/1/p1.png
+images:
+- /img/posts/1/p1.png
 ---
 
 Hello folks!
