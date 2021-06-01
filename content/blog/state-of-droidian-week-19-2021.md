@@ -39,7 +39,7 @@ Some basic power management stuff
 
 Eugenio has been looking at making the whole stack aware of the wakelock-centered, opportunistic sleep as commonly found in Android devices.
 
-Some shy first steps have been made with the introduction of [`stated`](https://github.com/droidian/stated),  
+Some shy first steps have been made with the introduction of [`stated`](https://github.com/droidian/stated), 
 The job of `stated` is to keep track of the current device state and set up wakelocks when required. It also enables `autosleep` so that the device can go into power saving mode when no wakelocks are active.  
 `stated` won't replace `gnome-settings-daemon`, and it tries not to go in its way.
 
