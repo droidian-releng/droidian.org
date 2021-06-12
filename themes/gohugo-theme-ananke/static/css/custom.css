@@ -250,6 +250,26 @@ a:hover {
   margin-bottom: 57px;
 }
 
+/* Devices list */
+.devices-list {
+  list-style: none;
+}
+
+.pcontainer {
+  background-color: #cdcdcd;
+  width: 100%;
+  border-radius: 15px;
+}
+
+.progress {
+  background-color: #3DDC84;
+  color: white;
+  padding: 1px;
+  text-align: right;
+  font-size: 20px;
+  border-radius: 15px;
+}
+
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .home-column {
