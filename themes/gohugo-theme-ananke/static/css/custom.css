@@ -255,6 +255,10 @@ a:hover {
   list-style: none;
 }
 
+.devices-link {
+  text-decoration: none;
+}
+
 .pcontainer {
   background-color: #cdcdcd;
   width: 100%;
