@@ -8,6 +8,4 @@ draft: false
 
 {{< device "sargo" "Google Pixel 3a" 57 >}}
 
-## Community Ports
-
-Nothing here yet!
+#### You can also check for [Community Ports](https://github.com/droidian/meta/wiki/Community-Ports)
