@@ -13,6 +13,7 @@ draft: false
 - **Keyboard:** 
 - **Display:** 
 - **Camera:** 
+- **Battery:** 
 
 <!--more-->
 

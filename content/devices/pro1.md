@@ -13,6 +13,7 @@ draft: false
 - **Keyboard:** physical, slide-out
 - **Display:** 5.99-inch 2160 x 1080 (FHD+) AMOLED with curved edges
 - **Camera:** Front Camera: 8MP, fixed focus, f/2.0 Rear Cameras: 12MP (Sony IMX363), f/1.8, 1.4µm pixels + 5MP, fixed focus, f/2.0
+- **Battery:** 3200 mAh
 
 <!--more-->
 
