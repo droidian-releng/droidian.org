@@ -26,19 +26,18 @@ theme = "gohugo-theme-ananke"
   weight = -340
 
 [[menu.main]]
+  identifier = "devices"
+  name = "Devices"
+  title = "Devices"
+  url = "/devices"
+  weight = -331
+
+[[menu.main]]
   identifier = "projects"
   name = "Projects"
   title = "Projects"
   url = "https://github.com/orgs/droidian/projects"
   weight = -330
-  
-[[menu.main]]
-  identifier = "images"
-  name = "Devices"
-  title = "Devices"
-  url = "/devices"
-  weight = -300
-  
   
 [[menu.main]]
   identifier = "bugtracker"
