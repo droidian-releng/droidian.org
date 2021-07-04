@@ -3,7 +3,8 @@ title: "Google Pixel 3a"
 layout: "device"
 draft: false
 ---
-## Progress
+
+<!--more-->
 
 ### Working
 
