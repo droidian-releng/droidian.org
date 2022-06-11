@@ -15,5 +15,9 @@ The site is up at [http://localhost:1313](http://localhost:1313) by default
 ## Adding new blog page
 A new blog page can be added using the CLI using following command :
 
+    $ hugo new blog/<name of the post>.md
+
+example:
+
     $ hugo new blog/hybris-mobian-is-now-droidian.md
 
