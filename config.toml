@@ -26,6 +26,20 @@ theme = "gohugo-theme-ananke"
   weight = -340
 
 [[menu.main]]
+  identifier = "devices"
+  name = "Devices"
+  title = "Devices"
+  url = "https://devices.droidian.org"
+  weight = -330
+
+[[menu.main]]
+  identifier = "wiki"
+  name = "Wiki"
+  title = "Wiki"
+  url = "https://github.com/droidian/droidian/wiki"
+  weight = -330
+
+[[menu.main]]
   identifier = "projects"
   name = "Projects"
   title = "Projects"
