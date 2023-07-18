@@ -5,7 +5,7 @@ The instructions to install hugo can be found [here](https://gohugo.io/getting-s
 
 # Running the hugo server for development
 The hugo server can be started locally using the command:
-    
+
     $ hugo serve -D
 
 > -D flag is provided used to allow draft pages to be included.
