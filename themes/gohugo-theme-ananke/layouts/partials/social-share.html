@@ -11,9 +11,6 @@
     </a>
 
     {{ $twitter_href := printf "https://twitter.com/share?url=%s&text=%s" $url $title }}
-    {{ with .Site.Social.twitter }}
-      {{ $twitter_href = printf "%s&via=%s" $twitter_href . }}
-    {{ end }}
     <a href="{{ $twitter_href }}" class="twitter no-underline" aria-label="share on Twitter">
       {{ partialCached "svg/twitter.svg" (dict "size" $icon_size) $icon_size }}
     </a>
